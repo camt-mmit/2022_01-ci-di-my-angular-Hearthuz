@@ -35,4 +35,3 @@ jobs:
           release_name: Release ${{ env.VERSION }}
           draft: false
           prerelease: false
-          
